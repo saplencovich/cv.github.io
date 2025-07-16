@@ -1,0 +1,75 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #ffffff !important;
+}
+
+.dropdown-menu .dropdown-item:hover .dropdown-item {
+  color: #fff !important;
+  background-color: #333 !important;
+}
+
+section {
+  scroll-margin-top: 80px;
+}
+
+#Presentation {
+  background-color: #212529;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 0px;
+}
+
+#Presentation img {
+  border-radius: 15px;
+  max-width: 100%; 
+  height: auto;
+}
+
+#Experiencias {
+  background-color: #212529 !important;
+}
+
+.card-footer {
+  background-color: #ffffff;
+}
+
+#Experiencias-DEL {
+  background-color: #ffffff !important;
+}
+
+.image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+
+#Contacto form label {
+  font-weight: 700;
+  color: #212529;
+}
+
+@media (max-width: 768px) {
+  #Contacto form label {
+    font-weight: 400;
+  }
+
+  .navbar-brand{
+    width: 100px;
+  }
+
+}
+
+.btn {
+  background-color: #212529;
+  border-color: #212529;
+}
