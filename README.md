@@ -14,8 +14,8 @@ Fork y midificaciones a mis compañeros:
   Proyecto forkeado de Hector Oliva.  
   Modificación: Escritura de información apartado "Sobre mí".
 
-- [mariagomez-landingpage](https://github.com/saplencovich/alejodevel.github.io?tab=readme-ov-file)
-  Proyecto forkeado de Hector Oliva.  
+- [alejodevel.github.io?tab=readme-ov-file](https://github.com/saplencovich/alejodevel.github.io?tab=readme-ov-file)
+  Proyecto forkeado de Alejandro González.  
   Modificación: Agregué nuevas estadísticas en section skills y modifique css agregando nuevos porcentajes para las barras de porcentaje.
 
 ---
